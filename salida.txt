@@ -1,0 +1,1562 @@
+RETO ELECCIONES
+
+Cuota de reparto2:139395.281
+Diputados Restantes:248
+Poblacion Derecho pais:34570029
+
+
+
+CIRCUNSCRIPCION: ALAVA
+POBLACION DE DERECHO: 247356
+NUMERO DE VOTOS ESCRUTADOS: 190248
+VOTOS NULOS: 8774
+NUMERO DE PARTIDOS PRESENTADOS: 14
+ESCAÑOS:4
+
+PSOE			55955	30.83 %	2 diputados
+PP			48674	26.82 %	1 diputados
+EAJ-PNV			46842	25.81 %	1 diputados
+IU			14128	7.79 %	0 diputados
+EA			7814	4.31 %	0 diputados
+ARALAR-ZUTIK			3401	1.87 %	0 diputados
+PH			1011	0.56 %	0 diputados
+CDS			355	0.20 %	0 diputados
+IR			279	0.15 %	0 diputados
+DN			107	0.06 %	0 diputados
+MSR			101	0.06 %	0 diputados
+FE_de_las_JONS			71	0.04 %	0 diputados
+EKA			61	0.03 %	0 diputados
+FE			49	0.03 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: ALBACETE
+POBLACION DE DERECHO: 298758
+NUMERO DE VOTOS ESCRUTADOS: 235323
+VOTOS NULOS: 1798
+NUMERO DE PARTIDOS PRESENTADOS: 14
+ESCAÑOS:4
+
+PP			109877	47.05 %	2 diputados
+PSOE			107826	46.17 %	2 diputados
+IU			9064	3.88 %	0 diputados
+CENB			572	0.24 %	0 diputados
+CDS			363	0.16 %	0 diputados
+PFyV			345	0.15 %	0 diputados
+DN			218	0.09 %	0 diputados
+PCPE			199	0.09 %	0 diputados
+FE			158	0.07 %	0 diputados
+TC-PNC			151	0.06 %	0 diputados
+IR			136	0.06 %	0 diputados
+PADE			110	0.05 %	0 diputados
+FA			95	0.04 %	0 diputados
+MSR			46	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: ALICANTE
+POBLACION DE DERECHO: 1154676
+NUMERO DE VOTOS ESCRUTADOS: 890737
+VOTOS NULOS: 5564
+NUMERO DE PARTIDOS PRESENTADOS: 21
+ESCAÑOS:10
+
+PP			433093	48.93 %	5 diputados
+PSOE			372472	42.08 %	5 diputados
+IU			34646	3.91 %	0 diputados
+LV-E			8113	0.92 %	0 diputados
+BLOC-EV			7359	0.83 %	0 diputados
+P.CANNABIS			5446	0.62 %	0 diputados
+ERC			2776	0.31 %	0 diputados
+CDS			1672	0.19 %	0 diputados
+CENB			1512	0.17 %	0 diputados
+PCPE			933	0.11 %	0 diputados
+PFyV			781	0.09 %	0 diputados
+DN			772	0.09 %	0 diputados
+PH			664	0.08 %	0 diputados
+FE_de_las_JONS			474	0.05 %	0 diputados
+FA			449	0.05 %	0 diputados
+ESPAÑA_2000			382	0.04 %	0 diputados
+PADE			332	0.04 %	0 diputados
+FE			293	0.03 %	0 diputados
+PRF			277	0.03 %	0 diputados
+UCL			242	0.03 %	0 diputados
+MSR			162	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: ALMERIA
+POBLACION DE DERECHO: 427305
+NUMERO DE VOTOS ESCRUTADOS: 302962
+VOTOS NULOS: 1544
+NUMERO DE PARTIDOS PRESENTADOS: 19
+ESCAÑOS:5
+
+PSOE			143585	47.64 %	3 diputados
+PP			133821	44.40 %	2 diputados
+IU			9402	3.12 %	0 diputados
+PA			7083	2.35 %	0 diputados
+A-IZ			887	0.29 %	0 diputados
+PSA			667	0.22 %	0 diputados
+CENB			269	0.09 %	0 diputados
+CDS			235	0.08 %	0 diputados
+PH			185	0.06 %	0 diputados
+FE_de_las_JONS			162	0.05 %	0 diputados
+PFyV			156	0.05 %	0 diputados
+FE			127	0.04 %	0 diputados
+DN			121	0.04 %	0 diputados
+A			116	0.04 %	0 diputados
+PTPRE			115	0.04 %	0 diputados
+IR			113	0.04 %	0 diputados
+MSR			104	0.03 %	0 diputados
+PADE			104	0.03 %	0 diputados
+PCPE			0	0.00 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: AVILA
+POBLACION DE DERECHO: 143637
+NUMERO DE VOTOS ESCRUTADOS: 113183
+VOTOS NULOS: 1114
+NUMERO DE PARTIDOS PRESENTADOS: 17
+ESCAÑOS:3
+
+PP			66909	59.70 %	2 diputados
+PSOE			37961	33.87 %	1 diputados
+IU			3557	3.17 %	0 diputados
+TC-PNC			526	0.47 %	0 diputados
+CDS			326	0.29 %	0 diputados
+CENB			129	0.12 %	0 diputados
+PH			101	0.09 %	0 diputados
+IR			89	0.08 %	0 diputados
+PFyV			80	0.07 %	0 diputados
+PMAR			79	0.07 %	0 diputados
+FE_de_las_JONS			68	0.06 %	0 diputados
+FE			68	0.06 %	0 diputados
+PCPE			45	0.04 %	0 diputados
+FA			43	0.04 %	0 diputados
+PADE			42	0.04 %	0 diputados
+DN			27	0.02 %	0 diputados
+MSR			25	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: BADAJOZ
+POBLACION DE DERECHO: 538537
+NUMERO DE VOTOS ESCRUTADOS: 425552
+VOTOS NULOS: 2997
+NUMERO DE PARTIDOS PRESENTADOS: 16
+ESCAÑOS:6
+
+PSOE			218193	51.64 %	3 diputados
+PP			176132	41.68 %	3 diputados
+IU			16645	3.94 %	0 diputados
+LV			1841	0.44 %	0 diputados
+EU			1468	0.35 %	0 diputados
+PCPE			604	0.14 %	0 diputados
+CENB			484	0.11 %	0 diputados
+CDS			412	0.10 %	0 diputados
+IR			217	0.05 %	0 diputados
+PFyV			193	0.05 %	0 diputados
+PH			179	0.04 %	0 diputados
+DN			170	0.04 %	0 diputados
+FE_de_las_JONS			138	0.03 %	0 diputados
+FA			113	0.03 %	0 diputados
+MSR			98	0.02 %	0 diputados
+FE			73	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: ILLES_BALEARS
+POBLACION DE DERECHO: 687789
+NUMERO DE VOTOS ESCRUTADOS: 471163
+VOTOS NULOS: 3348
+NUMERO DE PARTIDOS PRESENTADOS: 15
+ESCAÑOS:7
+
+PP			214570	45.87 %	4 diputados
+PSOE			184870	39.52 %	3 diputados
+PSM-EN,EU,EV,ER			40179	8.59 %	0 diputados
+UM			10454	2.23 %	0 diputados
+GVE			2602	0.56 %	0 diputados
+CENB			1552	0.33 %	0 diputados
+ASI			1233	0.26 %	0 diputados
+IR			821	0.18 %	0 diputados
+UCM			768	0.16 %	0 diputados
+TD			383	0.08 %	0 diputados
+UPB			382	0.08 %	0 diputados
+FE_de_las_JONS			317	0.07 %	0 diputados
+FE			269	0.06 %	0 diputados
+DN			219	0.05 %	0 diputados
+MSR			135	0.03 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: BARCELONA
+POBLACION DE DERECHO: 4007189
+NUMERO DE VOTOS ESCRUTADOS: 3032772
+VOTOS NULOS: 8379
+NUMERO DE PARTIDOS PRESENTADOS: 23
+ESCAÑOS:31
+
+PSOE			1260637	41.68 %	14 diputados
+CiU			582054	19.25 %	6 diputados
+PP			481026	15.90 %	5 diputados
+ERC			428133	14.16 %	4 diputados
+IU			197319	6.52 %	2 diputados
+EV-AE			26275	0.87 %	0 diputados
+CENB			2649	0.09 %	0 diputados
+POSI			2558	0.08 %	0 diputados
+CDS			2236	0.07 %	0 diputados
+IR-PRE			1704	0.06 %	0 diputados
+PFiV			1528	0.05 %	0 diputados
+Ei			1498	0.05 %	0 diputados
+PCPE			1447	0.05 %	0 diputados
+FE_de_las_JONS			1429	0.05 %	0 diputados
+PH			1082	0.04 %	0 diputados
+FE			1013	0.03 %	0 diputados
+DN			1000	0.03 %	0 diputados
+PNCA			569	0.02 %	0 diputados
+MSR			548	0.02 %	0 diputados
+PADE			508	0.02 %	0 diputados
+N			428	0.01 %	0 diputados
+FDE			338	0.01 %	0 diputados
+L.I.(LIT-CI)			309	0.01 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: BURGOS
+POBLACION DE DERECHO: 303176
+NUMERO DE VOTOS ESCRUTADOS: 234391
+VOTOS NULOS: 1650
+NUMERO DE PARTIDOS PRESENTADOS: 18
+ESCAÑOS:4
+
+PP			120799	51.90 %	2 diputados
+PSOE			90826	39.02 %	2 diputados
+IU			7577	3.26 %	0 diputados
+TC-PNC			3192	1.37 %	0 diputados
+LV-GV			1530	0.66 %	0 diputados
+CENB			958	0.41 %	0 diputados
+CDS			412	0.18 %	0 diputados
+PFyV			217	0.09 %	0 diputados
+IR			213	0.09 %	0 diputados
+PH			168	0.07 %	0 diputados
+PCPE			158	0.07 %	0 diputados
+PADE			149	0.06 %	0 diputados
+DN			134	0.06 %	0 diputados
+FE_de_las_JONS			112	0.05 %	0 diputados
+FE			109	0.05 %	0 diputados
+FA			71	0.03 %	0 diputados
+MSR			55	0.02 %	0 diputados
+PC			55	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: CACERES
+POBLACION DE DERECHO: 346721
+NUMERO DE VOTOS ESCRUTADOS: 272024
+VOTOS NULOS: 2117
+NUMERO DE PARTIDOS PRESENTADOS: 16
+ESCAÑOS:5
+
+PSOE			136411	50.54 %	3 diputados
+PP			117760	43.63 %	2 diputados
+IU			7478	2.77 %	0 diputados
+EU			2260	0.84 %	0 diputados
+LV			1161	0.43 %	0 diputados
+CDS			297	0.11 %	0 diputados
+CENB			272	0.10 %	0 diputados
+PCPE			242	0.09 %	0 diputados
+PFyV			146	0.05 %	0 diputados
+IR			118	0.04 %	0 diputados
+PH			110	0.04 %	0 diputados
+FE_de_las_JONS			104	0.04 %	0 diputados
+DN			97	0.04 %	0 diputados
+FA			79	0.03 %	0 diputados
+FE			51	0.02 %	0 diputados
+MSR			38	0.01 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: CADIZ
+POBLACION DE DERECHO: 927158
+NUMERO DE VOTOS ESCRUTADOS: 644614
+VOTOS NULOS: 4558
+NUMERO DE PARTIDOS PRESENTADOS: 17
+ESCAÑOS:9
+
+PSOE			324327	50.67 %	6 diputados
+PP			215224	33.63 %	3 diputados
+IU			38392	6.00 %	0 diputados
+PA			33511	5.24 %	0 diputados
+PSA			9843	1.54 %	0 diputados
+PTPRE			1335	0.21 %	0 diputados
+CENB			1086	0.17 %	0 diputados
+A			722	0.11 %	0 diputados
+PH			700	0.11 %	0 diputados
+IR			658	0.10 %	0 diputados
+CDS			522	0.08 %	0 diputados
+PPCr			492	0.08 %	0 diputados
+FE_de_las_JONS			489	0.08 %	0 diputados
+DN			475	0.07 %	0 diputados
+FE			371	0.06 %	0 diputados
+MSR			308	0.05 %	0 diputados
+PCPE			0	0.00 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: CASTELLON
+POBLACION DE DERECHO: 401542
+NUMERO DE VOTOS ESCRUTADOS: 313701
+VOTOS NULOS: 2689
+NUMERO DE PARTIDOS PRESENTADOS: 19
+ESCAÑOS:5
+
+PP			142005	45.66 %	3 diputados
+PSOE			138686	44.59 %	2 diputados
+IU			10282	3.31 %	0 diputados
+BLOC-EV			6308	2.03 %	0 diputados
+ERC			2197	0.71 %	0 diputados
+LV-E			2117	0.68 %	0 diputados
+CENB			880	0.28 %	0 diputados
+CDS			748	0.24 %	0 diputados
+ESPAÑA_2000			692	0.22 %	0 diputados
+PFyV			385	0.12 %	0 diputados
+PH			273	0.09 %	0 diputados
+POSI			261	0.08 %	0 diputados
+PCPE			240	0.08 %	0 diputados
+FE_de_las_JONS			210	0.07 %	0 diputados
+DN			204	0.07 %	0 diputados
+FA			169	0.05 %	0 diputados
+PRF			151	0.05 %	0 diputados
+FE			120	0.04 %	0 diputados
+MSR			59	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: CIUDAD_REAL
+POBLACION DE DERECHO: 393130
+NUMERO DE VOTOS ESCRUTADOS: 307833
+VOTOS NULOS: 2841
+NUMERO DE PARTIDOS PRESENTADOS: 16
+ESCAÑOS:5
+
+PSOE			146651	48.08 %	3 diputados
+PP			142166	46.61 %	2 diputados
+IU			8526	2.80 %	0 diputados
+Ud_Ca			593	0.19 %	0 diputados
+CENB			476	0.16 %	0 diputados
+CDS			349	0.11 %	0 diputados
+PH			283	0.09 %	0 diputados
+TC-PNC			246	0.08 %	0 diputados
+PCPE			190	0.06 %	0 diputados
+FE_de_las_JONS			145	0.05 %	0 diputados
+PADE			136	0.04 %	0 diputados
+DN			128	0.04 %	0 diputados
+FE			127	0.04 %	0 diputados
+IR			106	0.03 %	0 diputados
+MSR			84	0.03 %	0 diputados
+FA			61	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: CORDOBA
+POBLACION DE DERECHO: 633139
+NUMERO DE VOTOS ESCRUTADOS: 493864
+VOTOS NULOS: 3007
+NUMERO DE PARTIDOS PRESENTADOS: 17
+ESCAÑOS:7
+
+PSOE			244358	49.78 %	4 diputados
+PP			165814	33.78 %	3 diputados
+IU			47581	9.69 %	0 diputados
+PA			19631	4.00 %	0 diputados
+PSA			1482	0.30 %	0 diputados
+CENB			738	0.15 %	0 diputados
+PFyV			627	0.13 %	0 diputados
+A			448	0.09 %	0 diputados
+CDS			382	0.08 %	0 diputados
+PH			380	0.08 %	0 diputados
+IR			353	0.07 %	0 diputados
+PADE			214	0.04 %	0 diputados
+FE_de_las_JONS			177	0.04 %	0 diputados
+DN			170	0.03 %	0 diputados
+FE			157	0.03 %	0 diputados
+MSR			136	0.03 %	0 diputados
+PCPE			0	0.00 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: A_CORUÑA
+POBLACION DE DERECHO: 1053696
+NUMERO DE VOTOS ESCRUTADOS: 711930
+VOTOS NULOS: 4677
+NUMERO DE PARTIDOS PRESENTADOS: 15
+ESCAÑOS:10
+
+PP			311990	44.11 %	5 diputados
+PSOE			276358	39.07 %	4 diputados
+BNG			85346	12.07 %	1 diputados
+IU			13791	1.95 %	0 diputados
+AU.TO.NO.MO			1598	0.23 %	0 diputados
+CDS			969	0.14 %	0 diputados
+PH			881	0.12 %	0 diputados
+CG			689	0.10 %	0 diputados
+FPG			653	0.09 %	0 diputados
+DN			360	0.05 %	0 diputados
+PADE			350	0.05 %	0 diputados
+IR-ERG			301	0.04 %	0 diputados
+FE_de_las_JONS			229	0.03 %	0 diputados
+FE			206	0.03 %	0 diputados
+MSR			193	0.03 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: CUENCA
+POBLACION DE DERECHO: 165570
+NUMERO DE VOTOS ESCRUTADOS: 134302
+VOTOS NULOS: 1099
+NUMERO DE PARTIDOS PRESENTADOS: 15
+ESCAÑOS:3
+
+PP			66303	49.78 %	2 diputados
+PSOE			60415	45.36 %	1 diputados
+IU			3221	2.42 %	0 diputados
+CDS			187	0.14 %	0 diputados
+TC-PNC			175	0.13 %	0 diputados
+CENB			171	0.13 %	0 diputados
+PFyV			128	0.10 %	0 diputados
+PH			108	0.08 %	0 diputados
+IR			86	0.06 %	0 diputados
+PCPE			85	0.06 %	0 diputados
+FE_de_las_JONS			60	0.05 %	0 diputados
+DN			58	0.04 %	0 diputados
+FA			46	0.03 %	0 diputados
+MSR			37	0.03 %	0 diputados
+FE			34	0.03 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: GIRONA
+POBLACION DE DERECHO: 472436
+NUMERO DE VOTOS ESCRUTADOS: 357367
+VOTOS NULOS: 1538
+NUMERO DE PARTIDOS PRESENTADOS: 19
+ESCAÑOS:5
+
+PSOE			112546	31.63 %	2 diputados
+CiU			96517	27.12 %	2 diputados
+ERC			83229	23.39 %	1 diputados
+PP			40618	11.42 %	0 diputados
+IU			14947	4.20 %	0 diputados
+EV-AV			1777	0.50 %	0 diputados
+IR-PRE			826	0.23 %	0 diputados
+POSI			605	0.17 %	0 diputados
+CENB			414	0.12 %	0 diputados
+PCPE			288	0.08 %	0 diputados
+FE			233	0.07 %	0 diputados
+CDS			233	0.07 %	0 diputados
+Ei			214	0.06 %	0 diputados
+PFiV			193	0.05 %	0 diputados
+PHC			134	0.04 %	0 diputados
+DN			129	0.04 %	0 diputados
+L.I.(LIT-CI)			98	0.03 %	0 diputados
+PNCA			85	0.02 %	0 diputados
+MSR			76	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: GRANADA
+POBLACION DE DERECHO: 694281
+NUMERO DE VOTOS ESCRUTADOS: 519503
+VOTOS NULOS: 3269
+NUMERO DE PARTIDOS PRESENTADOS: 18
+ESCAÑOS:7
+
+PSOE			265402	51.41 %	4 diputados
+PP			191503	37.10 %	3 diputados
+IU			30924	5.99 %	0 diputados
+PA			13915	2.70 %	0 diputados
+PSA			2369	0.46 %	0 diputados
+CENB			678	0.13 %	0 diputados
+CDS			465	0.09 %	0 diputados
+PH			396	0.08 %	0 diputados
+PFyV			393	0.08 %	0 diputados
+PTPRE			379	0.07 %	0 diputados
+PCPE			342	0.07 %	0 diputados
+IR			236	0.05 %	0 diputados
+DN			192	0.04 %	0 diputados
+FE_de_las_JONS			180	0.03 %	0 diputados
+PADE			176	0.03 %	0 diputados
+FE			165	0.03 %	0 diputados
+ESPAÑA_2000			164	0.03 %	0 diputados
+MSR			108	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: GUADALAJARA
+POBLACION DE DERECHO: 151075
+NUMERO DE VOTOS ESCRUTADOS: 120588
+VOTOS NULOS: 1138
+NUMERO DE PARTIDOS PRESENTADOS: 18
+ESCAÑOS:3
+
+PP			56898	47.63 %	2 diputados
+PSOE			52679	44.10 %	1 diputados
+IU			5268	4.41 %	0 diputados
+CENB			494	0.41 %	0 diputados
+PRGU			325	0.27 %	0 diputados
+PFyV			170	0.14 %	0 diputados
+CDS			158	0.13 %	0 diputados
+TC-PNC			151	0.13 %	0 diputados
+PADE			117	0.10 %	0 diputados
+DN			116	0.10 %	0 diputados
+PH			105	0.09 %	0 diputados
+IR			92	0.08 %	0 diputados
+FE_de_las_JONS			90	0.08 %	0 diputados
+PCPE			70	0.06 %	0 diputados
+FE			68	0.06 %	0 diputados
+FA			46	0.04 %	0 diputados
+GPHAE			35	0.03 %	0 diputados
+MSR			27	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: GUIPUZCOA
+POBLACION DE DERECHO: 581802
+NUMERO DE VOTOS ESCRUTADOS: 418327
+VOTOS NULOS: 49225
+NUMERO DE PARTIDOS PRESENTADOS: 15
+ESCAÑOS:6
+
+EAJ-PNV			114225	30.95 %	2 diputados
+PSOE			97206	26.34 %	2 diputados
+PP			55857	15.13 %	1 diputados
+EA			42811	11.60 %	1 diputados
+IU			28470	7.71 %	0 diputados
+ARALAR-ZUTIK			22212	6.02 %	0 diputados
+PH			1142	0.31 %	0 diputados
+IR			498	0.13 %	0 diputados
+CDS			317	0.09 %	0 diputados
+DN			244	0.07 %	0 diputados
+EKA			206	0.06 %	0 diputados
+MSR			160	0.04 %	0 diputados
+FE_de_las_JONS			112	0.03 %	0 diputados
+FA			100	0.03 %	0 diputados
+FE			69	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: HUELVA
+POBLACION DE DERECHO: 378410
+NUMERO DE VOTOS ESCRUTADOS: 276189
+VOTOS NULOS: 1896
+NUMERO DE PARTIDOS PRESENTADOS: 17
+ESCAÑOS:5
+
+PSOE			154078	56.17 %	3 diputados
+PP			83968	30.61 %	2 diputados
+IU			15033	5.48 %	0 diputados
+PA			14521	5.29 %	0 diputados
+PSA			1038	0.38 %	0 diputados
+CENB			350	0.13 %	0 diputados
+PTPRE			245	0.09 %	0 diputados
+PH			184	0.07 %	0 diputados
+CDS			162	0.06 %	0 diputados
+A			148	0.05 %	0 diputados
+IR			145	0.05 %	0 diputados
+DN			116	0.04 %	0 diputados
+FE			93	0.03 %	0 diputados
+FE_de_las_JONS			90	0.03 %	0 diputados
+FA			68	0.02 %	0 diputados
+MSR			52	0.02 %	0 diputados
+PCPE			0	0.00 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: HUESCA
+POBLACION DE DERECHO: 176974
+NUMERO DE VOTOS ESCRUTADOS: 134350
+VOTOS NULOS: 895
+NUMERO DE PARTIDOS PRESENTADOS: 16
+ESCAÑOS:3
+
+PSOE			60940	45.66 %	2 diputados
+PP			50050	37.50 %	1 diputados
+CHA			8572	6.42 %	0 diputados
+PAR			6738	5.05 %	0 diputados
+IU			3572	2.68 %	0 diputados
+DN			222	0.17 %	0 diputados
+CENB			147	0.11 %	0 diputados
+IR			115	0.09 %	0 diputados
+CDS			114	0.09 %	0 diputados
+PCPE			92	0.07 %	0 diputados
+PFyV			70	0.05 %	0 diputados
+PH			62	0.05 %	0 diputados
+FE-de_las_JONS			47	0.04 %	0 diputados
+MSR			46	0.03 %	0 diputados
+FE			39	0.03 %	0 diputados
+FA			24	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: JAEN
+POBLACION DE DERECHO: 525898
+NUMERO DE VOTOS ESCRUTADOS: 420933
+VOTOS NULOS: 2711
+NUMERO DE PARTIDOS PRESENTADOS: 17
+ESCAÑOS:6
+
+PSOE			227478	54.39 %	4 diputados
+PP			142786	34.14 %	2 diputados
+IU			24377	5.83 %	0 diputados
+PA			15424	3.69 %	0 diputados
+PSA			1003	0.24 %	0 diputados
+PH			498	0.12 %	0 diputados
+CENB			379	0.09 %	0 diputados
+CDS			249	0.06 %	0 diputados
+PFyV			215	0.05 %	0 diputados
+A			196	0.05 %	0 diputados
+IR			145	0.03 %	0 diputados
+FE_de_las_JONS			134	0.03 %	0 diputados
+DN			131	0.03 %	0 diputados
+ESPAÑA_2000			106	0.03 %	0 diputados
+FE			105	0.03 %	0 diputados
+MSR			69	0.02 %	0 diputados
+PCPE			0	0.00 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: LEON
+POBLACION DE DERECHO: 450267
+NUMERO DE VOTOS ESCRUTADOS: 328749
+VOTOS NULOS: 1726
+NUMERO DE PARTIDOS PRESENTADOS: 14
+ESCAÑOS:5
+
+PSOE			153104	46.82 %	3 diputados
+PP			147079	44.98 %	2 diputados
+UPL			13114	4.01 %	0 diputados
+IU			6931	2.12 %	0 diputados
+CENB			499	0.15 %	0 diputados
+CDS			252	0.08 %	0 diputados
+PREPAL			183	0.06 %	0 diputados
+PFyV			159	0.05 %	0 diputados
+IR			159	0.05 %	0 diputados
+FE_de_las_JONS			146	0.04 %	0 diputados
+FE			136	0.04 %	0 diputados
+TC-PNC			102	0.03 %	0 diputados
+DN			90	0.03 %	0 diputados
+MSR			60	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: LLEIDA
+POBLACION DE DERECHO: 312352
+NUMERO DE VOTOS ESCRUTADOS: 231468
+VOTOS NULOS: 951
+NUMERO DE PARTIDOS PRESENTADOS: 19
+ESCAÑOS:4
+
+PSOE			68093	29.54 %	2 diputados
+CiU			67969	29.49 %	1 diputados
+ERC			49407	21.43 %	1 diputados
+PP			33667	14.60 %	0 diputados
+IU			6798	2.95 %	0 diputados
+EV-AE			1116	0.48 %	0 diputados
+IR-PRE			548	0.24 %	0 diputados
+CENB			179	0.08 %	0 diputados
+DN			157	0.07 %	0 diputados
+Ei			129	0.06 %	0 diputados
+PCPE			89	0.04 %	0 diputados
+PH			80	0.03 %	0 diputados
+FE_de_las_JONS			79	0.03 %	0 diputados
+CDS			78	0.03 %	0 diputados
+PFiV			69	0.03 %	0 diputados
+MSR			58	0.03 %	0 diputados
+FE			54	0.02 %	0 diputados
+PNCA			44	0.02 %	0 diputados
+L.I.(LIT-CI)			31	0.01 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: LA_RIOJA
+POBLACION DE DERECHO: 234771
+NUMERO DE VOTOS ESCRUTADOS: 184302
+VOTOS NULOS: 1438
+NUMERO DE PARTIDOS PRESENTADOS: 11
+ESCAÑOS:4
+
+PP			91068	49.80 %	2 diputados
+PSOE			80647	44.10 %	2 diputados
+IU			5070	2.77 %	0 diputados
+CENB			914	0.50 %	0 diputados
+PFyV			409	0.22 %	0 diputados
+CDS			268	0.15 %	0 diputados
+IR			249	0.14 %	0 diputados
+FE			145	0.08 %	0 diputados
+DN			114	0.06 %	0 diputados
+MSR			97	0.05 %	0 diputados
+PC			61	0.03 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: LUGO
+POBLACION DE DERECHO: 347425
+NUMERO DE VOTOS ESCRUTADOS: 238259
+VOTOS NULOS: 1678
+NUMERO DE PARTIDOS PRESENTADOS: 15
+ESCAÑOS:5
+
+PP			116812	49.38 %	3 diputados
+PSOE			87945	37.17 %	2 diputados
+BNG			24944	10.54 %	0 diputados
+IU			2378	1.01 %	0 diputados
+AU.TO.NO.MO			269	0.11 %	0 diputados
+CDS			250	0.11 %	0 diputados
+IR-ERG			201	0.08 %	0 diputados
+PH			190	0.08 %	0 diputados
+FPG			164	0.07 %	0 diputados
+CG			141	0.06 %	0 diputados
+DN			116	0.05 %	0 diputados
+PADE			78	0.03 %	0 diputados
+FE_de_las_JONS			63	0.03 %	0 diputados
+FE			57	0.02 %	0 diputados
+MSR			54	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: MADRID
+POBLACION DE DERECHO: 4458435
+NUMERO DE VOTOS ESCRUTADOS: 3482990
+VOTOS NULOS: 17378
+NUMERO DE PARTIDOS PRESENTADOS: 28
+ESCAÑOS:34
+
+PP			1559082	44.99 %	16 diputados
+PSOE			1530498	44.16 %	16 diputados
+IU			218804	6.31 %	2 diputados
+LVCM			20428	0.59 %	0 diputados
+LV-E			15590	0.45 %	0 diputados
+CENB			9974	0.29 %	0 diputados
+CDS			7439	0.21 %	0 diputados
+DN			4020	0.12 %	0 diputados
+IR			3392	0.10 %	0 diputados
+PFyV			2818	0.08 %	0 diputados
+FE_de_las_JONS			2650	0.08 %	0 diputados
+ADN			2133	0.06 %	0 diputados
+FE			2034	0.06 %	0 diputados
+PAE			2014	0.06 %	0 diputados
+PH			1703	0.05 %	0 diputados
+PCPE			1676	0.05 %	0 diputados
+PMAR			1217	0.04 %	0 diputados
+OtraDem			1203	0.03 %	0 diputados
+TC-PNC			1025	0.03 %	0 diputados
+PADE			947	0.03 %	0 diputados
+FA			910	0.03 %	0 diputados
+AUN			906	0.03 %	0 diputados
+POSI			873	0.03 %	0 diputados
+MSR			654	0.02 %	0 diputados
+ESPAÑA_2000			562	0.02 %	0 diputados
+L.I.(LIT-CI)			532	0.02 %	0 diputados
+UCL			446	0.01 %	0 diputados
+PC			248	0.01 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: MALAGA
+POBLACION DE DERECHO: 1033290
+NUMERO DE VOTOS ESCRUTADOS: 737157
+VOTOS NULOS: 3995
+NUMERO DE PARTIDOS PRESENTADOS: 21
+ESCAÑOS:9
+
+PSOE			364514	49.72 %	5 diputados
+PP			267273	36.45 %	4 diputados
+IU			46826	6.39 %	0 diputados
+PA			32264	4.40 %	0 diputados
+PSA			2664	0.36 %	0 diputados
+CENB			901	0.12 %	0 diputados
+PH			764	0.10 %	0 diputados
+IR			662	0.09 %	0 diputados
+CDS			578	0.08 %	0 diputados
+A			560	0.08 %	0 diputados
+PFyV			500	0.07 %	0 diputados
+PADE			440	0.06 %	0 diputados
+PPCr			386	0.05 %	0 diputados
+FE_de_las_JONS			327	0.04 %	0 diputados
+DN			309	0.04 %	0 diputados
+UN			308	0.04 %	0 diputados
+FE			268	0.04 %	0 diputados
+ESPAÑA_2000			222	0.03 %	0 diputados
+FA			218	0.03 %	0 diputados
+MSR			192	0.03 %	0 diputados
+PCPE			0	0.00 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: MURCIA
+POBLACION DE DERECHO: 941118
+NUMERO DE VOTOS ESCRUTADOS: 721167
+VOTOS NULOS: 4439
+NUMERO DE PARTIDOS PRESENTADOS: 18
+ESCAÑOS:9
+
+PP			412248	57.52 %	6 diputados
+PSOE			250418	34.94 %	3 diputados
+IU			30595	4.27 %	0 diputados
+LVRM			6910	0.96 %	0 diputados
+CDS			1141	0.16 %	0 diputados
+CENB			949	0.13 %	0 diputados
+PFyV			628	0.09 %	0 diputados
+IR			511	0.07 %	0 diputados
+PCPE			403	0.06 %	0 diputados
+PADE			395	0.06 %	0 diputados
+FA			359	0.05 %	0 diputados
+FE_de_las_JONS			351	0.05 %	0 diputados
+PNT			348	0.05 %	0 diputados
+CCSE			302	0.04 %	0 diputados
+DN			255	0.04 %	0 diputados
+FE			224	0.03 %	0 diputados
+PDN			203	0.03 %	0 diputados
+MSR			178	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: NAVARRA
+POBLACION DE DERECHO: 466170
+NUMERO DE VOTOS ESCRUTADOS: 351843
+VOTOS NULOS: 15611
+NUMERO DE PARTIDOS PRESENTADOS: 14
+ESCAÑOS:5
+
+PP			125965	37.46 %	2 diputados
+PSOE			112914	33.58 %	2 diputados
+Na-Bai			60645	18.04 %	1 diputados
+IU			19760	5.88 %	0 diputados
+CDN			5513	1.64 %	0 diputados
+PH			947	0.28 %	0 diputados
+CDS			865	0.26 %	0 diputados
+PFyV			750	0.22 %	0 diputados
+IR			625	0.19 %	0 diputados
+PC			590	0.18 %	0 diputados
+DN			366	0.11 %	0 diputados
+ESPAÑA_2000			222	0.07 %	0 diputados
+FE			195	0.06 %	0 diputados
+MSR			173	0.05 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: OURENSE
+POBLACION DE DERECHO: 354994
+NUMERO DE VOTOS ESCRUTADOS: 224176
+VOTOS NULOS: 1311
+NUMERO DE PARTIDOS PRESENTADOS: 15
+ESCAÑOS:5
+
+PP			121353	54.45 %	3 diputados
+PSOE			69954	31.39 %	2 diputados
+BNG			25547	11.46 %	0 diputados
+IU			1895	0.85 %	0 diputados
+CG			519	0.23 %	0 diputados
+PADE			229	0.10 %	0 diputados
+CDS			170	0.08 %	0 diputados
+AU.TO.NO.MO			152	0.07 %	0 diputados
+FPG			136	0.06 %	0 diputados
+PH			131	0.06 %	0 diputados
+IR-ERG			71	0.03 %	0 diputados
+FE_de_las_JONS			71	0.03 %	0 diputados
+DN			52	0.02 %	0 diputados
+FE			45	0.02 %	0 diputados
+MSR			39	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: ASTURIAS
+POBLACION DE DERECHO: 986330
+NUMERO DE VOTOS ESCRUTADOS: 689196
+VOTOS NULOS: 3849
+NUMERO DE PARTIDOS PRESENTADOS: 17
+ESCAÑOS:9
+
+PP			300791	43.89 %	5 diputados
+PSOE			295787	43.16 %	4 diputados
+IU			58487	8.53 %	0 diputados
+VERDES			4633	0.68 %	0 diputados
+PAS			4102	0.60 %	0 diputados
+AA			1942	0.28 %	0 diputados
+CENB			1320	0.19 %	0 diputados
+IAS			831	0.12 %	0 diputados
+PCPE			721	0.11 %	0 diputados
+IR			555	0.08 %	0 diputados
+CDAS_CDS			477	0.07 %	0 diputados
+PH			318	0.05 %	0 diputados
+FE_de_las_JONS			230	0.03 %	0 diputados
+MSR			202	0.03 %	0 diputados
+DN			195	0.03 %	0 diputados
+FE			182	0.03 %	0 diputados
+FA			163	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: PALENCIA
+POBLACION DE DERECHO: 152671
+NUMERO DE VOTOS ESCRUTADOS: 120083
+VOTOS NULOS: 978
+NUMERO DE PARTIDOS PRESENTADOS: 16
+ESCAÑOS:3
+
+PP			59814	50.22 %	2 diputados
+PSOE			51358	43.12 %	1 diputados
+IU			3386	2.84 %	0 diputados
+TC-PNC			791	0.66 %	0 diputados
+CENB			283	0.24 %	0 diputados
+CDS			270	0.23 %	0 diputados
+PFyV			151	0.13 %	0 diputados
+PH			146	0.12 %	0 diputados
+PCPE			119	0.10 %	0 diputados
+IR			106	0.09 %	0 diputados
+PADE			106	0.09 %	0 diputados
+FE_de_las_JONS			69	0.06 %	0 diputados
+DN			53	0.04 %	0 diputados
+FE			40	0.03 %	0 diputados
+FA			34	0.03 %	0 diputados
+MSR			19	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: LAS_PALMAS
+POBLACION DE DERECHO: 736113
+NUMERO DE VOTOS ESCRUTADOS: 494227
+VOTOS NULOS: 3351
+NUMERO DE PARTIDOS PRESENTADOS: 17
+ESCAÑOS:7
+
+PP			207873	42.35 %	3 diputados
+PSOE			167086	34.04 %	3 diputados
+CC			87348	17.79 %	1 diputados
+IU			9828	2.00 %	0 diputados
+LV-GV			6260	1.28 %	0 diputados
+APCa			1183	0.24 %	0 diputados
+PCPE			1023	0.21 %	0 diputados
+AxGC			918	0.19 %	0 diputados
+CDS			776	0.16 %	0 diputados
+PH			537	0.11 %	0 diputados
+AMAGA			467	0.10 %	0 diputados
+IR			333	0.07 %	0 diputados
+DN			291	0.06 %	0 diputados
+FE_de_las_JONS			286	0.06 %	0 diputados
+FA			248	0.05 %	0 diputados
+FE			220	0.04 %	0 diputados
+MSR			154	0.03 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: PONTEVEDRA
+POBLACION DE DERECHO: 848699
+NUMERO DE VOTOS ESCRUTADOS: 583922
+VOTOS NULOS: 4333
+NUMERO DE PARTIDOS PRESENTADOS: 14
+ESCAÑOS:8
+
+PP			262127	45.23 %	4 diputados
+PSOE			219340	37.84 %	3 diputados
+BNG			69776	12.04 %	1 diputados
+IU			12830	2.21 %	0 diputados
+PH			962	0.17 %	0 diputados
+FPG			935	0.16 %	0 diputados
+CDS			932	0.16 %	0 diputados
+AU.TO.NO.MO			835	0.14 %	0 diputados
+CG			525	0.09 %	0 diputados
+IR-ERG			345	0.06 %	0 diputados
+DN			313	0.05 %	0 diputados
+FE_de_las_JONS			279	0.05 %	0 diputados
+FE			238	0.04 %	0 diputados
+MSR			195	0.03 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: SALAMANCA
+POBLACION DE DERECHO: 312413
+NUMERO DE VOTOS ESCRUTADOS: 234168
+VOTOS NULOS: 1629
+NUMERO DE PARTIDOS PRESENTADOS: 17
+ESCAÑOS:4
+
+PP			126553	54.42 %	2 diputados
+PSOE			92306	39.69 %	2 diputados
+IU			4631	1.99 %	0 diputados
+UPSa			1791	0.77 %	0 diputados
+PREPAL			475	0.20 %	0 diputados
+CENB			458	0.20 %	0 diputados
+CDS			418	0.18 %	0 diputados
+PFyV			262	0.11 %	0 diputados
+PH			204	0.09 %	0 diputados
+TC-PNC			159	0.07 %	0 diputados
+IR			124	0.05 %	0 diputados
+PCPE			101	0.04 %	0 diputados
+DN			97	0.04 %	0 diputados
+FE_de_las_JONS			88	0.04 %	0 diputados
+FE			82	0.04 %	0 diputados
+MSR			77	0.03 %	0 diputados
+FA			49	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: SANTA_CRUZ_DE_TENERIFE
+POBLACION DE DERECHO: 721752
+NUMERO DE VOTOS ESCRUTADOS: 453379
+VOTOS NULOS: 2156
+NUMERO DE PARTIDOS PRESENTADOS: 18
+ESCAÑOS:7
+
+PSOE			161572	35.81 %	3 diputados
+CC			133686	29.63 %	2 diputados
+PP			129674	28.74 %	2 diputados
+IU			8602	1.91 %	0 diputados
+LV-GV			4684	1.04 %	0 diputados
+PNC			3974	0.88 %	0 diputados
+APCa			1452	0.32 %	0 diputados
+CDS			608	0.13 %	0 diputados
+POSI			530	0.12 %	0 diputados
+PCPE			498	0.11 %	0 diputados
+LG			346	0.08 %	0 diputados
+PH			307	0.07 %	0 diputados
+IR			290	0.06 %	0 diputados
+FE_de_las_JONS			192	0.04 %	0 diputados
+FA			170	0.04 %	0 diputados
+DN			156	0.03 %	0 diputados
+FE			119	0.03 %	0 diputados
+MSR			103	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: CANTABRIA
+POBLACION DE DERECHO: 479067
+NUMERO DE VOTOS ESCRUTADOS: 365780
+VOTOS NULOS: 3222
+NUMERO DE PARTIDOS PRESENTADOS: 14
+ESCAÑOS:5
+
+PP			188176	51.90 %	3 diputados
+PSOE			148272	40.90 %	2 diputados
+IU			11976	3.30 %	0 diputados
+CNC			1376	0.38 %	0 diputados
+CENB			1315	0.36 %	0 diputados
+CDS			854	0.24 %	0 diputados
+PH			646	0.18 %	0 diputados
+MSR			490	0.14 %	0 diputados
+PCPE			410	0.11 %	0 diputados
+FE_de_las_JONS			198	0.05 %	0 diputados
+DN			186	0.05 %	0 diputados
+FE			162	0.04 %	0 diputados
+FA			130	0.04 %	0 diputados
+PC			123	0.03 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: SEGOVIA
+POBLACION DE DERECHO: 124634
+NUMERO DE VOTOS ESCRUTADOS: 100500
+VOTOS NULOS: 987
+NUMERO DE PARTIDOS PRESENTADOS: 16
+ESCAÑOS:3
+
+PP			52225	52.48 %	2 diputados
+PSOE			39743	39.94 %	1 diputados
+IU			3438	3.45 %	0 diputados
+TC-PNC			460	0.46 %	0 diputados
+CENB			431	0.43 %	0 diputados
+CDS			236	0.24 %	0 diputados
+PFyV			184	0.18 %	0 diputados
+PH			116	0.12 %	0 diputados
+IR			104	0.10 %	0 diputados
+PADE			90	0.09 %	0 diputados
+PCPE			81	0.08 %	0 diputados
+FE_de_las_JONS			67	0.07 %	0 diputados
+DN			47	0.05 %	0 diputados
+FE			46	0.05 %	0 diputados
+FA			34	0.03 %	0 diputados
+MSR			32	0.03 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: SEVILLA
+POBLACION DE DERECHO: 1431699
+NUMERO DE VOTOS ESCRUTADOS: 1099339
+VOTOS NULOS: 6580
+NUMERO DE PARTIDOS PRESENTADOS: 17
+ESCAÑOS:12
+
+PSOE			636829	58.28 %	8 diputados
+PP			305129	27.92 %	4 diputados
+IU			73046	6.68 %	0 diputados
+PA			44912	4.11 %	0 diputados
+PSA			4365	0.40 %	0 diputados
+CENB			2228	0.20 %	0 diputados
+IR			1094	0.10 %	0 diputados
+PFyV			843	0.08 %	0 diputados
+PH			836	0.08 %	0 diputados
+CDS			690	0.06 %	0 diputados
+A			647	0.06 %	0 diputados
+FE_de_las_JONS			58	0.01 %	0 diputados
+PSDA			557	0.05 %	0 diputados
+FE			394	0.04 %	0 diputados
+DN			382	0.03 %	0 diputados
+MSR			292	0.03 %	0 diputados
+PCPE			0	0.00 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: SORIA
+POBLACION DE DERECHO: 78535
+NUMERO DE VOTOS ESCRUTADOS: 58087
+VOTOS NULOS: 1610
+NUMERO DE PARTIDOS PRESENTADOS: 19
+ESCAÑOS:3
+
+PP			28674	50.77 %	2 diputados
+PSOE			21943	38.85 %	1 diputados
+I.DE.S.			2886	5.11 %	0 diputados
+IU			1212	2.15 %	0 diputados
+CENB			96	0.17 %	0 diputados
+CDS			88	0.16 %	0 diputados
+TC-PNC			67	0.12 %	0 diputados
+IR			34	0.06 %	0 diputados
+FE_de_las_JONS			31	0.05 %	0 diputados
+PFyV			30	0.05 %	0 diputados
+PC			28	0.05 %	0 diputados
+PH			26	0.05 %	0 diputados
+PCPE			25	0.04 %	0 diputados
+PADE			21	0.04 %	0 diputados
+DN			19	0.03 %	0 diputados
+FA			17	0.03 %	0 diputados
+FE			16	0.03 %	0 diputados
+GPHAE			15	0.03 %	0 diputados
+MSR			8	0.01 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: TARRAGONA
+POBLACION DE DERECHO: 516580
+NUMERO DE VOTOS ESCRUTADOS: 384775
+VOTOS NULOS: 1817
+NUMERO DE PARTIDOS PRESENTADOS: 23
+ESCAÑOS:6
+
+PSOE			136054	35.53 %	3 diputados
+CiU			82506	21.54 %	1 diputados
+ERC			76041	19.86 %	1 diputados
+PP			65037	16.98 %	1 diputados
+IU			14606	3.81 %	0 diputados
+EV-AE			2570	0.67 %	0 diputados
+PCPC			384	0.10 %	0 diputados
+POSI			360	0.09 %	0 diputados
+CENB			348	0.09 %	0 diputados
+IR-PRE			222	0.06 %	0 diputados
+CDS			185	0.05 %	0 diputados
+Ei			168	0.04 %	0 diputados
+PH			154	0.04 %	0 diputados
+PFiV			153	0.04 %	0 diputados
+DN			149	0.04 %	0 diputados
+FE			122	0.03 %	0 diputados
+FE_de_las_JONS			116	0.03 %	0 diputados
+ESPAÑA_2000			116	0.03 %	0 diputados
+PADE			79	0.02 %	0 diputados
+PCdeC			61	0.02 %	0 diputados
+PNCA			58	0.02 %	0 diputados
+MSR			56	0.01 %	0 diputados
+L.I.(LIT-CI)			32	0.01 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: TERUEL
+POBLACION DE DERECHO: 116153
+NUMERO DE VOTOS ESCRUTADOS: 87885
+VOTOS NULOS: 1347
+NUMERO DE PARTIDOS PRESENTADOS: 16
+ESCAÑOS:3
+
+PSOE			35765	41.33 %	2 diputados
+PP			35637	41.18 %	1 diputados
+PAR			6957	8.04 %	0 diputados
+CHA			4448	5.14 %	0 diputados
+IU			2474	2.86 %	0 diputados
+PCPE			106	0.12 %	0 diputados
+CENB			95	0.11 %	0 diputados
+CDS			80	0.09 %	0 diputados
+FE_de_las_JONS			53	0.06 %	0 diputados
+IR			51	0.06 %	0 diputados
+PFyV			44	0.05 %	0 diputados
+PH			38	0.04 %	0 diputados
+DN			29	0.03 %	0 diputados
+FE			28	0.03 %	0 diputados
+PADE			18	0.02 %	0 diputados
+MSR			17	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: TOLEDO
+POBLACION DE DERECHO: 450292
+NUMERO DE VOTOS ESCRUTADOS: 362574
+VOTOS NULOS: 3134
+NUMERO DE PARTIDOS PRESENTADOS: 18
+ESCAÑOS:5
+
+PP			170738	47.50 %	3 diputados
+PSOE			167094	46.49 %	2 diputados
+IU			12608	3.51 %	0 diputados
+PFyV			716	0.20 %	0 diputados
+CDS			553	0.15 %	0 diputados
+CENB			528	0.15 %	0 diputados
+PH			318	0.09 %	0 diputados
+TC-PNC			277	0.08 %	0 diputados
+PMAR			273	0.08 %	0 diputados
+PCPE			204	0.06 %	0 diputados
+FE_de_las_JONS			190	0.05 %	0 diputados
+FE			164	0.05 %	0 diputados
+IR			161	0.04 %	0 diputados
+DN			156	0.04 %	0 diputados
+POSI			147	0.04 %	0 diputados
+PADE			125	0.03 %	0 diputados
+FA			114	0.03 %	0 diputados
+MSR			83	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: VALENCIA
+POBLACION DE DERECHO: 1884476
+NUMERO DE VOTOS ESCRUTADOS: 1456467
+VOTOS NULOS: 9129
+NUMERO DE PARTIDOS PRESENTADOS: 24
+ESCAÑOS:16
+
+PP			662608	45.78 %	8 diputados
+PSOE			610543	42.18 %	7 diputados
+IU			77939	5.38 %	1 diputados
+BLOC-EV			26978	1.86 %	0 diputados
+LV-E			10969	0.76 %	0 diputados
+P.CANNABIS			9563	0.66 %	0 diputados
+ERC			8216	0.57 %	0 diputados
+CENB			3623	0.25 %	0 diputados
+CDS			2517	0.17 %	0 diputados
+IRV			2081	0.14 %	0 diputados
+PFyV			1937	0.13 %	0 diputados
+ESPAÑA_2000			1640	0.11 %	0 diputados
+PCPE			1070	0.07 %	0 diputados
+PSICV			1062	0.07 %	0 diputados
+PH			882	0.06 %	0 diputados
+DN			787	0.05 %	0 diputados
+POSI			689	0.05 %	0 diputados
+PRF			578	0.04 %	0 diputados
+FE_de_las_JONS			553	0.04 %	0 diputados
+FE			535	0.04 %	0 diputados
+FA			362	0.03 %	0 diputados
+PADE			308	0.02 %	0 diputados
+MSR			254	0.02 %	0 diputados
+FDE			236	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: VALLADOLID
+POBLACION DE DERECHO: 431763
+NUMERO DE VOTOS ESCRUTADOS: 348420
+VOTOS NULOS: 2026
+NUMERO DE PARTIDOS PRESENTADOS: 19
+ESCAÑOS:5
+
+PP			162041	46.78 %	3 diputados
+PSOE			154613	44.64 %	2 diputados
+IU			12927	3.73 %	0 diputados
+CI			2392	0.69 %	0 diputados
+P.CANNABIS			1836	0.53 %	0 diputados
+TC-PNC			1352	0.39 %	0 diputados
+CDS			991	0.29 %	0 diputados
+CENB			558	0.16 %	0 diputados
+PH			473	0.14 %	0 diputados
+PFyV			351	0.10 %	0 diputados
+PCPE			232	0.07 %	0 diputados
+FE_de_las_JONS			211	0.06 %	0 diputados
+IR			153	0.04 %	0 diputados
+PADE			145	0.04 %	0 diputados
+FE			127	0.04 %	0 diputados
+DN			121	0.03 %	0 diputados
+ESPAÑA_2000			116	0.03 %	0 diputados
+FA			107	0.03 %	0 diputados
+MSR			75	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: VIZCAYA
+POBLACION DE DERECHO: 974724
+NUMERO DE VOTOS ESCRUTADOS: 732768
+VOTOS NULOS: 45960
+NUMERO DE PARTIDOS PRESENTADOS: 16
+ESCAÑOS:9
+
+EAJ-PNV			256087	37.29 %	4 diputados
+PSOE			183797	26.76 %	3 diputados
+PP			128046	18.64 %	2 diputados
+IU			59126	8.61 %	0 diputados
+EA			29988	4.37 %	0 diputados
+ARALAR-ZUTIK			12706	1.85 %	0 diputados
+PKD			2395	0.35 %	0 diputados
+PH			1804	0.26 %	0 diputados
+POSI			1670	0.24 %	0 diputados
+CDS			756	0.11 %	0 diputados
+EKA			428	0.06 %	0 diputados
+IR			386	0.06 %	0 diputados
+DN			338	0.05 %	0 diputados
+MSR			265	0.04 %	0 diputados
+FE			171	0.02 %	0 diputados
+FE_de_las_JONS			130	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: ZAMORA
+POBLACION DE DERECHO: 182377
+NUMERO DE VOTOS ESCRUTADOS: 132489
+VOTOS NULOS: 1138
+NUMERO DE PARTIDOS PRESENTADOS: 17
+ESCAÑOS:3
+
+PP			70216	53.46 %	2 diputados
+PSOE			52465	39.94 %	1 diputados
+IU			3279	2.50 %	0 diputados
+UPL			745	0.57 %	0 diputados
+ZU			629	0.48 %	0 diputados
+PREPAL			521	0.40 %	0 diputados
+CENB			185	0.14 %	0 diputados
+CDS			182	0.14 %	0 diputados
+UCL			128	0.10 %	0 diputados
+PFyV			102	0.08 %	0 diputados
+TC-PNC			85	0.06 %	0 diputados
+FE_de_las_JONS			59	0.04 %	0 diputados
+FA			56	0.04 %	0 diputados
+DN			50	0.04 %	0 diputados
+FE			50	0.04 %	0 diputados
+PCPE			48	0.04 %	0 diputados
+MSR			34	0.03 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: ZARAGOZA
+POBLACION DE DERECHO: 726803
+NUMERO DE VOTOS ESCRUTADOS: 557903
+VOTOS NULOS: 3107
+NUMERO DE PARTIDOS PRESENTADOS: 17
+ESCAÑOS:7
+
+PSOE			223455	40.28 %	3 diputados
+PP			197089	35.52 %	3 diputados
+CHA			80845	14.57 %	1 diputados
+PAR			22579	4.07 %	0 diputados
+IU			15454	2.79 %	0 diputados
+CENB			783	0.14 %	0 diputados
+FyV			568	0.10 %	0 diputados
+CDS			563	0.10 %	0 diputados
+DN			320	0.06 %	0 diputados
+IR			246	0.04 %	0 diputados
+PH			245	0.04 %	0 diputados
+PCPE			232	0.04 %	0 diputados
+FE_de_las_JONS			207	0.04 %	0 diputados
+FE			194	0.03 %	0 diputados
+FA			136	0.02 %	0 diputados
+PCA			96	0.02 %	0 diputados
+MSR			95	0.02 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: CEUTA
+POBLACION DE DERECHO: 56748
+NUMERO DE VOTOS ESCRUTADOS: 35601
+VOTOS NULOS: 308
+NUMERO DE PARTIDOS PRESENTADOS: 8
+ESCAÑOS:1
+
+PP			20978	59.44 %	1 diputados
+PSOE			12593	35.68 %	0 diputados
+PSPC			769	2.18 %	0 diputados
+IU			212	0.60 %	0 diputados
+FE			114	0.32 %	0 diputados
+DN			59	0.17 %	0 diputados
+IR			31	0.09 %	0 diputados
+PADE			24	0.07 %	0 diputados
+
+
+
+CIRCUNSCRIPCION: MELILLA
+POBLACION DE DERECHO: 49123
+NUMERO DE VOTOS ESCRUTADOS: 27090
+VOTOS NULOS: 223
+NUMERO DE PARTIDOS PRESENTADOS: 10
+ESCAÑOS:1
+
+PP			14696	54.70 %	1 diputados
+PSOE			11125	41.41 %	0 diputados
+IU			214	0.80 %	0 diputados
+LV-GV			132	0.49 %	0 diputados
+CDS			87	0.32 %	0 diputados
+IR			55	0.20 %	0 diputados
+FE			45	0.17 %	0 diputados
+PADE			32	0.12 %	0 diputados
+DN			29	0.11 %	0 diputados
+ESPAÑA_2000			19	0.07 %	0 diputados
+
+
+HACEMOS BALANCE:
+
+
+
+partidos_reg:107
+
+Todos los partidos:
+
+PSOE			10909687	42.64 %	164 diputados
+PP			9630512	37.64 %	149 diputados
+EAJ-PNV			417154	1.63 %	7 diputados
+IU			1269532	4.96 %	5 diputados
+EA			80613	0.32 %	1 diputados
+ARALAR-ZUTIK			38319	0.15 %	0 diputados
+PH			20339	0.08 %	0 diputados
+CDS			32990	0.13 %	0 diputados
+IR			13741	0.05 %	0 diputados
+DN			14666	0.06 %	0 diputados
+MSR			6623	0.03 %	0 diputados
+FE_de_las_JONS			11495	0.04 %	0 diputados
+EKA			695	0.00 %	0 diputados
+FE			10204	0.04 %	0 diputados
+CENB			39877	0.16 %	0 diputados
+PFyV			13790	0.05 %	0 diputados
+PCPE			11973	0.05 %	0 diputados
+TC-PNC			8759	0.03 %	0 diputados
+PADE			5275	0.02 %	0 diputados
+FA			4471	0.02 %	0 diputados
+LV-E			36789	0.14 %	0 diputados
+BLOC-EV			40645	0.16 %	0 diputados
+P.CANNABIS			16845	0.07 %	0 diputados
+ERC			649999	2.54 %	7 diputados
+ESPAÑA_2000			4241	0.02 %	0 diputados
+PRF			1006	0.00 %	0 diputados
+UCL			816	0.00 %	0 diputados
+PA			181261	0.71 %	0 diputados
+A-IZ			887	0.00 %	0 diputados
+PSA			23431	0.09 %	0 diputados
+A			2837	0.01 %	0 diputados
+PTPRE			2074	0.01 %	0 diputados
+PMAR			1569	0.01 %	0 diputados
+LV			3002	0.01 %	0 diputados
+EU			3728	0.01 %	0 diputados
+PSM-EN,EU,EV,ER			40179	0.16 %	0 diputados
+UM			10454	0.04 %	0 diputados
+GVE			2602	0.01 %	0 diputados
+ASI			1233	0.00 %	0 diputados
+UCM			768	0.00 %	0 diputados
+TD			383	0.00 %	0 diputados
+UPB			382	0.00 %	0 diputados
+CiU			829046	3.24 %	10 diputados
+EV-AE			29961	0.12 %	0 diputados
+POSI			7693	0.03 %	0 diputados
+IR-PRE			3300	0.01 %	0 diputados
+PFiV			1943	0.01 %	0 diputados
+Ei			2009	0.01 %	0 diputados
+PNCA			756	0.00 %	0 diputados
+N			428	0.00 %	0 diputados
+FDE			574	0.00 %	0 diputados
+L.I.(LIT-CI)			1002	0.00 %	0 diputados
+LV-GV			12606	0.05 %	0 diputados
+PC			1105	0.00 %	0 diputados
+PPCr			878	0.00 %	0 diputados
+Ud_Ca			593	0.00 %	0 diputados
+BNG			205613	0.80 %	2 diputados
+AU.TO.NO.MO			2854	0.01 %	0 diputados
+CG			1874	0.01 %	0 diputados
+FPG			1888	0.01 %	0 diputados
+IR-ERG			918	0.00 %	0 diputados
+EV-AV			1777	0.01 %	0 diputados
+PHC			134	0.00 %	0 diputados
+PRGU			325	0.00 %	0 diputados
+GPHAE			50	0.00 %	0 diputados
+CHA			93865	0.37 %	1 diputados
+PAR			36274	0.14 %	0 diputados
+FE-de_las_JONS			47	0.00 %	0 diputados
+UPL			13859	0.05 %	0 diputados
+PREPAL			1179	0.00 %	0 diputados
+LVCM			20428	0.08 %	0 diputados
+ADN			2133	0.01 %	0 diputados
+PAE			2014	0.01 %	0 diputados
+OtraDem			1203	0.00 %	0 diputados
+AUN			906	0.00 %	0 diputados
+UN			308	0.00 %	0 diputados
+LVRM			6910	0.03 %	0 diputados
+PNT			348	0.00 %	0 diputados
+CCSE			302	0.00 %	0 diputados
+PDN			203	0.00 %	0 diputados
+Na-Bai			60645	0.24 %	1 diputados
+CDN			5513	0.02 %	0 diputados
+VERDES			4633	0.02 %	0 diputados
+PAS			4102	0.02 %	0 diputados
+AA			1942	0.01 %	0 diputados
+IAS			831	0.00 %	0 diputados
+CDAS_CDS			477	0.00 %	0 diputados
+CC			221034	0.86 %	3 diputados
+APCa			2635	0.01 %	0 diputados
+AxGC			918	0.00 %	0 diputados
+AMAGA			467	0.00 %	0 diputados
+UPSa			1791	0.01 %	0 diputados
+PNC			3974	0.02 %	0 diputados
+LG			346	0.00 %	0 diputados
+CNC			1376	0.01 %	0 diputados
+PSDA			557	0.00 %	0 diputados
+I.DE.S.			2886	0.01 %	0 diputados
+PCPC			384	0.00 %	0 diputados
+PCdeC			61	0.00 %	0 diputados
+IRV			2081	0.01 %	0 diputados
+PSICV			1062	0.00 %	0 diputados
+CI			2392	0.01 %	0 diputados
+PKD			2395	0.01 %	0 diputados
+ZU			629	0.00 %	0 diputados
+FyV			568	0.00 %	0 diputados
+PCA			96	0.00 %	0 diputados
+PSPC			769	0.00 %	0 diputados
+
+
+
+Los partidos que obtuvieron representacion:
+
+PSOE			10909687	42.64 %	164 diputados
+PP			9630512	37.64 %	149 diputados
+EAJ-PNV			417154	1.63 %	7 diputados
+IU			1269532	4.96 %	5 diputados
+EA			80613	0.32 %	1 diputados
+ERC			649999	2.54 %	7 diputados
+CiU			829046	3.24 %	10 diputados
+BNG			205613	0.80 %	2 diputados
+CHA			93865	0.37 %	1 diputados
+Na-Bai			60645	0.24 %	1 diputados
+CC			221034	0.86 %	3 diputados
+
+
+
+Control de los datos de entrada:
+dato 0:34570029
+dato 1:350
+dato 2:1
+dato 3:51
+dato 4:107
+dato 5:261590
+
+SUMA DE LOS VOTOS A PARTIDOS:
+Total votos:25177716
+
+SUMA DE LOS VALORES QUE SE FACILITAN PARA CADA CIRCUNSCRIPCION:
+Total_votantes=25846620
+Total nulos=262239
+
+DATOS OFICIALES:
+Total votos nulos:261590
+
+Reto elecciones
+Ultima revision:24-5-04
+Fco.Javier Campos
