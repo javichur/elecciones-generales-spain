@@ -1,0 +1,1306 @@
+ERRATAS-ERRATAS-ERRATAS-ERRATAS-ERRATAS-ERRATAS-ERRATAS-ERRATAS-ERRATAS-ERRATAS-ERRATAS-ERRATAS
+
+	La suma de todos los valores de entrada de "Votos nulos" no coincide con la suma oficial
+	facilitada por el ministerio de interior. Algo se ha colado al hacer el copy-paste.
+	
+	Por tanto, los porcentajes por partido a nivel nacional no son correctos, porque para su cálculo
+	se usan los valores globales de "total votantes en el pais" y "total votos nulos en el pais":
+
+
+	Regla de 3:
+
+		(Total votantes en país)-(total votos nulos en pais) ------------> 100%
+
+		(Total votos partido) -------------------------------------------> X
+
+
+	Para que estos porcentajes salgan bien, incluyo el dato oficiale de "total votos nulos en pais" 
+	en los datos de entrada.
+
+FIN ERRATAS
+
+
+//Este documento incluye los datos relativos a las elecciones generales 2004.
+//Fuente: www.mir.es
+
+//Nota: Para simplificar el programa, se han evitado los nombres "compuestos".
+//Por mucho que se presente Izquierda Unida con los verdes, todos los votos
+//acaban yendo a la misma saca. Por eso, en lugar de "ENTESA", "IU-SIEX",etc.. 
+//aparece sólo "IU", para que luego el recuento por partidos sea más fácil :-)
+//PCPC==PCPE, ERPV==ERC,etc...
+
+
+
+
+//inicio datos iniciales
+
+//POBLACION DE DERECHO EN EL PAÍS (34570029):
+#34570029
+
+//TOTAL DIPUTADOS EN LA CÁMARA:
+#350
+
+//PAÍS(ESPAÑA=1;RESTO=0):
+#1
+
+//NÚMERO DE CIRCUNSCRIPCIONES: (51)
+//NOTA:PARA EL CASO DE ESPAÑA, CONTAR CEUTA Y MELILLA COMO 1.
+#51
+
+
+//TOTAL PARTIDOS PRESENTADOS:(96)
+#107
+
+//TOTAL VOTOS NULOS EN EL PAIS (para compensar las erratas):
+#261590
+
+
+//fin datos iniciales
+
+
+//inicio RESULTADOS
+
+
+#ALAVA
+Población de derecho:247356
+Total votantes:190248
+Votos nulos:8774
+Partidos presentados:14
+===========================
+PSOE 55955
+PP 48674
+EAJ-PNV 46842
+IU 14128
+EA 7814
+ARALAR-ZUTIK 3401
+PH 1011
+CDS 355
+IR 279
+DN 107
+MSR 101
+FE_de_las_JONS 71
+EKA 61
+FE 49
+_______________________
+#ALBACETE
+Población de derecho:298758
+Total votantes:235323
+Votos nulos:1798
+Partidos presetados:14
+===========================
+PP 109877
+PSOE 107826
+IU 9064
+CENB 572
+CDS 363
+PFyV 345
+DN 218
+PCPE 199
+FE 158
+TC-PNC 151
+IR 136
+PADE 110
+FA 95
+MSR 46
+________________________
+#ALICANTE
+Población de derecho:1154676
+Total votantes:890737
+Votos nulos:5564
+Partidos presentados:21
+===========================
+PP 433093
+PSOE 372472
+IU 34646
+LV-E 8113
+BLOC-EV 7359
+P.CANNABIS 5446
+ERC 2776
+CDS 1672
+CENB 1512
+PCPE 933
+PFyV 781
+DN 772
+PH 664
+FE_de_las_JONS 474
+FA 449
+ESPAÑA_2000 382
+PADE 332
+FE 293
+PRF 277
+UCL 242
+MSR 162
+____________________________
+#ALMERIA
+Población de derecho:427305
+Total votantes:302962
+Votos nulos:1544
+Partidos presentados:19
+===========================
+PSOE 143585
+PP 133821
+IU 9402
+PA 7083
+A-IZ 887
+PSA 667
+CENB 269
+CDS 235
+PH 185
+FE_de_las_JONS 162
+PFyV 156
+FE 127
+DN 121
+A 116
+PTPRE 115
+IR 113
+MSR 104
+PADE 104
+PCPE 0
+____________________________
+#AVILA
+Población de derecho:143637
+Total votantes:113183
+Votos nulos:1114
+Partidos presentados:17
+===========================
+PP 66909
+PSOE 37961
+IU 3557
+TC-PNC 526
+CDS 326
+CENB 129
+PH 101
+IR 89
+PFyV 80
+PMAR 79
+FE_de_las_JONS 68
+FE 68
+PCPE 45
+FA 43
+PADE 42
+DN 27
+MSR 25
+____________________________
+#BADAJOZ
+Población de derecho:538537
+Total votantes:425552
+Votos nulos:2997
+Partidos presentados:16
+===========================
+PSOE 218193
+PP 176132
+IU 16645
+LV 1841
+EU 1468
+PCPE 604
+CENB 484
+CDS 412
+IR 217
+PFyV 193
+PH 179
+DN 170
+FE_de_las_JONS 138
+FA 113
+MSR 98
+FE 73
+____________________________
+#ILLES_BALEARS
+Población de derecho:687789
+Total votantes:471163
+Votos nulos:3348
+Partidos presentados:15
+===========================
+PP 214570
+PSOE 184870
+PSM-EN,EU,EV,ER 40179
+UM 10454
+GVE 2602
+CENB 1552
+ASI 1233
+IR 821
+UCM 768
+TD 383
+UPB 382
+FE_de_las_JONS 317
+FE 269
+DN 219
+MSR 135
+____________________________
+#BARCELONA
+Población de derecho:4007189
+Total votantes:3032772
+Votos nulos:8379
+Partidos presentados:23
+===========================
+PSOE 1260637
+CiU 582054
+PP 481026
+ERC 428133
+IU 197319
+EV-AE 26275
+CENB 2649
+POSI 2558
+CDS 2236
+IR-PRE 1704
+PFiV 1528
+Ei 1498
+PCPE 1447
+FE_de_las_JONS 1429
+PH 1082
+FE 1013
+DN 1000
+PNCA 569
+MSR 548
+PADE 508
+N 428
+FDE 338
+L.I.(LIT-CI) 309
+____________________________
+#BURGOS
+Población de derecho:303176
+Total votantes:234391
+Votos nulos:1650
+Partidos presentados:18
+===========================
+PP 120799
+PSOE 90826
+IU 7577
+TC-PNC 3192
+LV-GV 1530
+CENB 958
+CDS 412
+PFyV 217
+IR 213
+PH 168
+PCPE 158
+PADE 149
+DN 134
+FE_de_las_JONS 112
+FE 109
+FA 71
+MSR 55
+PC 55
+____________________________
+#CACERES
+Población de derecho:346721
+Total votantes:272024
+Votos nulos:2117
+Partidos presentados:16
+===========================
+PSOE 136411
+PP 117760
+IU 7478
+EU 2260
+LV 1161
+CDS 297
+CENB 272
+PCPE 242
+PFyV 146
+IR 118
+PH 110
+FE_de_las_JONS 104
+DN 97
+FA 79
+FE 51
+MSR 38
+____________________________
+#CADIZ
+Población de derecho:927158
+Total votantes:644614
+Votos nulos:4558
+Partidos presentados:17
+===========================
+PSOE 324327
+PP 215224
+IU 38392
+PA 33511
+PSA 9843
+PTPRE 1335
+CENB 1086
+A 722
+PH 700
+IR 658
+CDS 522
+PPCr 492
+FE_de_las_JONS 489
+DN 475
+FE 371
+MSR 308
+PCPE 0
+____________________________
+#CASTELLON
+Población de derecho:401542
+Total votantes:313701
+Votos nulos:2689
+Partidos presentados:19
+===========================
+PP 142005
+PSOE 138686
+IU 10282
+BLOC-EV 6308
+ERC 2197
+LV-E 2117
+CENB 880
+CDS 748
+ESPAÑA_2000 692
+PFyV 385
+PH 273
+POSI 261
+PCPE 240
+FE_de_las_JONS 210
+DN 204
+FA 169
+PRF 151
+FE 120
+MSR 59
+____________________________
+#CIUDAD_REAL
+Población de derecho:393130
+Total votantes:307833
+Votos nulos:2841
+Partidos presentados:16
+===========================
+PSOE 146651
+PP 142166
+IU 8526
+Ud_Ca 593
+CENB 476
+CDS 349
+PH 283
+TC-PNC 246
+PCPE 190
+FE_de_las_JONS 145
+PADE 136
+DN 128
+FE 127
+IR 106
+MSR 84
+FA 61
+____________________________
+#CORDOBA
+Población de derecho:633139
+Total votantes:493864
+Votos nulos:3007
+Partidos presentados:17
+===========================
+PSOE 244358
+PP 165814
+IU 47581
+PA 19631
+PSA 1482
+CENB 738
+PFyV 627
+A 448
+CDS 382
+PH 380
+IR 353
+PADE 214
+FE_de_las_JONS 177
+DN 170
+FE 157
+MSR 136
+PCPE 0
+____________________________
+#A_CORUÑA
+Población de derecho:1053696
+Total votantes:711930
+Votos nulos:4677
+Partidos presentados:15
+===========================
+PP 311990
+PSOE 276358
+BNG 85346
+IU 13791
+AU.TO.NO.MO 1598
+CDS 969
+PH 881
+CG 689
+FPG 653
+DN 360
+PADE 350
+IR-ERG 301
+FE_de_las_JONS 229
+FE 206
+MSR 193
+____________________________
+#CUENCA
+Población de derecho:165570
+Total votantes:134302
+Votos nulos:1099
+Partidos presentados:15
+===========================
+PP 66303
+PSOE 60415
+IU 3221
+CDS 187
+TC-PNC 175
+CENB 171
+PFyV 128
+PH 108
+IR 86
+PCPE 85
+FE_de_las_JONS 60
+DN 58
+FA 46
+MSR 37
+FE 34
+____________________________
+#GIRONA
+Población de derecho:472436
+Total votantes:357367
+Votos nulos:1538
+Partidos presentados:19
+===========================
+PSOE 112546
+CiU 96517
+ERC 83229
+PP 40618
+IU 14947
+EV-AV 1777
+IR-PRE 826
+POSI 605
+CENB 414
+PCPE 288
+FE 233
+CDS 233
+Ei 214
+PFiV 193
+PHC 134
+DN 129
+L.I.(LIT-CI) 98
+PNCA 85
+MSR 76
+____________________________
+#GRANADA
+Población de derecho:694281
+Total votantes:519503
+Votos nulos:3269
+Partidos presentados:18
+===========================
+PSOE 265402
+PP 191503
+IU 30924
+PA 13915
+PSA 2369
+CENB 678
+CDS 465
+PH 396
+PFyV 393
+PTPRE 379
+PCPE 342
+IR 236
+DN 192
+FE_de_las_JONS 180
+PADE 176
+FE 165
+ESPAÑA_2000 164
+MSR 108
+____________________________
+#GUADALAJARA
+Población de derecho:151075
+Total votantes:120588
+Votos nulos:1138
+Partidos presentados:18
+===========================
+PP 56898
+PSOE 52679
+IU 5268
+CENB 494
+PRGU 325
+PFyV 170
+CDS 158
+TC-PNC 151
+PADE 117
+DN 116
+PH 105
+IR 92
+FE_de_las_JONS 90
+PCPE 70
+FE 68
+FA 46
+GPHAE 35
+MSR 27
+____________________________
+#GUIPUZCOA
+Población de derecho:581802
+Total votantes:418327
+Votos nulos:49225
+Partidos presentados:15
+===========================
+EAJ-PNV 114225
+PSOE 97206
+PP 55857
+EA 42811
+IU 28470
+ARALAR-ZUTIK 22212
+PH 1142
+IR 498
+CDS 317
+DN 244
+EKA 206
+MSR 160
+FE_de_las_JONS 112
+FA 100
+FE 69
+____________________________
+#HUELVA
+Población de derecho:378410
+Total votantes:276189
+Votos nulos:1896
+Partidos presentados:17
+===========================
+PSOE 154078
+PP 83968
+IU 15033
+PA 14521
+PSA 1038
+CENB 350
+PTPRE 245
+PH 184
+CDS 162
+A 148
+IR 145
+DN 116
+FE 93
+FE_de_las_JONS 90
+FA 68
+MSR 52
+PCPE 0
+____________________________
+#HUESCA
+Población de derecho:176974
+Total votantes:134350
+Votos nulos:895
+Partidos presentados:16
+===========================
+PSOE 60940
+PP 50050
+CHA 8572
+PAR 6738
+IU 3572
+DN 222
+CENB 147
+IR 115
+CDS 114
+PCPE 92
+PFyV 70
+PH 62
+FE-de_las_JONS 47
+MSR 46
+FE 39
+FA 24
+____________________________
+#JAEN
+Población de derecho:525898
+Total votantes:420933
+Votos nulos:2711
+Partidos presentados:17
+===========================
+PSOE 227478
+PP 142786
+IU 24377
+PA 15424
+PSA 1003
+PH 498
+CENB 379
+CDS 249
+PFyV 215
+A 196
+IR 145
+FE_de_las_JONS 134
+DN 131
+ESPAÑA_2000 106
+FE 105
+MSR 69
+PCPE 0
+____________________________
+#LEON
+Población de derecho:450267
+Total votantes:328749
+Votos nulos:1726
+Partidos presentados:14
+===========================
+PSOE 153104
+PP 147079
+UPL 13114
+IU 6931
+CENB 499
+CDS 252
+PREPAL 183
+PFyV 159
+IR 159
+FE_de_las_JONS 146
+FE 136
+TC-PNC 102
+DN 90
+MSR 60
+____________________________
+#LLEIDA
+Población de derecho:312352
+Total votantes:231468
+Votos nulos:951
+Partidos presentados:19
+===========================
+PSOE 68093
+CiU 67969
+ERC 49407
+PP 33667
+IU 6798
+EV-AE 1116
+IR-PRE 548
+CENB 179
+DN 157
+Ei 129
+PCPE 89
+PH 80
+FE_de_las_JONS 79
+CDS 78
+PFiV 69
+MSR 58
+FE 54
+PNCA 44
+L.I.(LIT-CI) 31
+____________________________
+#LA_RIOJA
+Población de derecho:234771
+Total votantes:184302
+Votos nulos:1438
+Partidos presentados:11
+===========================
+PP 91068
+PSOE 80647
+IU 5070
+CENB 914
+PFyV 409
+CDS 268
+IR 249
+FE 145
+DN 114
+MSR 97
+PC 61
+____________________________
+#LUGO
+Población de derecho:347425
+Total votantes:238259
+Votos nulos:1678
+Partidos presentados:15
+===========================
+PP 116812
+PSOE 87945
+BNG 24944
+IU 2378
+AU.TO.NO.MO 269
+CDS 250
+IR-ERG 201
+PH 190
+FPG 164
+CG 141
+DN 116
+PADE 78
+FE_de_las_JONS 63
+FE 57
+MSR 54
+____________________________
+#MADRID
+Población de derecho:4458435
+Total votantes:3482990
+Votos nulos:17378
+Partidos presentados:28
+===========================
+PP 1559082
+PSOE 1530498
+IU 218804
+LVCM 20428
+LV-E 15590
+CENB 9974
+CDS 7439
+DN 4020
+IR 3392
+PFyV 2818
+FE_de_las_JONS 2650
+ADN 2133
+FE 2034
+PAE 2014
+PH 1703
+PCPE 1676
+PMAR 1217
+OtraDem 1203
+TC-PNC 1025
+PADE 947
+FA 910
+AUN 906
+POSI 873
+MSR 654
+ESPAÑA_2000 562
+L.I.(LIT-CI) 532
+UCL 446
+PC 248
+____________________________
+#MALAGA
+Población de derecho:1033290
+Total votantes:737157
+Votos nulos:3995
+Partidos presentados:21
+===========================
+PSOE 364514
+PP 267273
+IU 46826
+PA 32264
+PSA 2664
+CENB 901
+PH 764
+IR 662
+CDS 578
+A 560
+PFyV 500
+PADE 440
+PPCr 386
+FE_de_las_JONS 327
+DN 309
+UN 308
+FE 268
+ESPAÑA_2000 222
+FA 218
+MSR 192
+PCPE 0
+____________________________
+#MURCIA
+Población de derecho:941118
+Total votantes:721167
+Votos nulos:4439
+Partidos presentados:18
+===========================
+PP 412248
+PSOE 250418
+IU 30595
+LVRM 6910
+CDS 1141
+CENB 949
+PFyV 628
+IR 511
+PCPE 403
+PADE 395
+FA 359
+FE_de_las_JONS 351
+PNT 348
+CCSE 302
+DN 255
+FE 224
+PDN 203
+MSR 178
+____________________________
+#NAVARRA
+Población de derecho:466170
+Total votantes:351843
+Votos nulos:15611
+Partidos presentados:14
+===========================
+PP 125965
+PSOE 112914
+Na-Bai 60645
+IU 19760
+CDN 5513
+PH 947
+CDS 865
+PFyV 750
+IR 625
+PC 590
+DN 366
+ESPAÑA_2000 222
+FE 195
+MSR 173
+____________________________
+#OURENSE
+Población de derecho:354994
+Total votantes:224176
+Votos nulos:1311
+Partidos presentados:15
+===========================
+PP 121353
+PSOE 69954
+BNG 25547
+IU 1895
+CG 519
+PADE 229
+CDS 170
+AU.TO.NO.MO 152
+FPG 136
+PH 131
+IR-ERG 71
+FE_de_las_JONS 71
+DN 52
+FE 45
+MSR 39
+____________________________
+#ASTURIAS
+Población de derecho:986330
+Total votantes:689196
+Votos nulos:3849
+Partidos presentados:17
+===========================
+PP 300791
+PSOE 295787
+IU 58487
+VERDES 4633
+PAS 4102
+AA 1942
+CENB 1320
+IAS 831
+PCPE 721
+IR 555
+CDAS_CDS 477
+PH 318
+FE_de_las_JONS 230
+MSR 202
+DN 195
+FE 182
+FA 163
+____________________________
+#PALENCIA
+Población de derecho:152671
+Total votantes:120083
+Votos nulos:978
+Partidos presentados:16
+===========================
+PP 59814
+PSOE 51358
+IU 3386
+TC-PNC 791
+CENB 283
+CDS 270
+PFyV 151
+PH 146
+PCPE 119
+IR 106
+PADE 106
+FE_de_las_JONS 69
+DN 53
+FE 40
+FA 34
+MSR 19
+____________________________
+#LAS_PALMAS
+Población de derecho:736113
+Total votantes:494227
+Votos nulos:3351
+Partidos presentados:17
+===========================
+PP 207873
+PSOE 167086
+CC 87348
+IU 9828
+LV-GV 6260
+APCa 1183
+PCPE 1023
+AxGC 918
+CDS 776
+PH 537
+AMAGA 467
+IR 333
+DN 291
+FE_de_las_JONS 286
+FA 248
+FE 220
+MSR 154
+____________________________
+#PONTEVEDRA
+Población de derecho:848699
+Total votantes:583922
+Votos nulos:4333
+Partidos presentados:14
+===========================
+PP 262127
+PSOE 219340
+BNG 69776
+IU 12830
+PH 962
+FPG 935
+CDS 932
+AU.TO.NO.MO 835
+CG 525
+IR-ERG 345
+DN 313
+FE_de_las_JONS 279
+FE 238
+MSR 195
+____________________________
+#SALAMANCA
+Población de derecho:312413
+Total votantes:234168
+Votos nulos:1629
+Partidos presentados:17
+===========================
+PP 126553
+PSOE 92306
+IU 4631
+UPSa 1791
+PREPAL 475
+CENB 458
+CDS 418
+PFyV 262
+PH 204
+TC-PNC 159
+IR 124
+PCPE 101
+DN 97
+FE_de_las_JONS 88
+FE 82
+MSR 77
+FA 49
+____________________________
+#SANTA_CRUZ_DE_TENERIFE
+Población de derecho:721752
+Total votantes:453379
+Votos nulos:2156
+Partidos presentados:18
+===========================
+PSOE 161572
+CC 133686
+PP 129674
+IU 8602
+LV-GV 4684
+PNC 3974
+APCa 1452
+CDS 608
+POSI 530
+PCPE 498
+LG 346
+PH 307
+IR 290
+FE_de_las_JONS 192
+FA 170
+DN 156
+FE 119
+MSR 103
+____________________________
+#CANTABRIA
+Población de derecho:479067
+Total votantes:365780
+Votos nulos:3222
+Partidos presentados:14
+===========================
+PP 188176
+PSOE 148272
+IU 11976
+CNC 1376
+CENB 1315
+CDS 854
+PH 646
+MSR 490
+PCPE 410
+FE_de_las_JONS 198
+DN 186
+FE 162
+FA 130
+PC 123
+____________________________
+#SEGOVIA
+Población de derecho:124634
+Total votantes:100500
+Votos nulos:987
+Partidos presentados:16
+===========================
+PP 52225
+PSOE 39743
+IU 3438
+TC-PNC 460
+CENB 431
+CDS 236
+PFyV 184
+PH 116
+IR 104
+PADE 90
+PCPE 81
+FE_de_las_JONS 67
+DN 47
+FE 46
+FA 34
+MSR 32
+____________________________
+#SEVILLA
+Población de derecho:1431699
+Total votantes:1099339
+Votos nulos:6580
+Partidos presentados:17
+===========================
+PSOE 636829
+PP 305129
+IU 73046
+PA 44912
+PSA 4365
+CENB 2228
+IR 1094
+PFyV 843
+PH 836
+CDS 690
+A 647
+FE_de_las_JONS 58
+PSDA 557
+FE 394
+DN 382
+MSR 292
+PCPE 0
+____________________________
+#SORIA
+Población de derecho:78535
+Total votantes:58087
+Votos nulos:1610
+Partidos presentados:19
+===========================
+PP 28674
+PSOE 21943
+I.DE.S. 2886
+IU 1212
+CENB 96
+CDS 88
+TC-PNC 67
+IR 34
+FE_de_las_JONS 31
+PFyV 30
+PC 28
+PH 26
+PCPE 25
+PADE 21
+DN 19
+FA 17
+FE 16
+GPHAE 15
+MSR 8
+____________________________
+#TARRAGONA
+Población de derecho:516580
+Total votantes:384775
+Votos nulos:1817
+Partidos presentados:23
+===========================
+PSOE 136054
+CiU 82506
+ERC 76041
+PP 65037
+IU 14606
+EV-AE 2570
+PCPC 384
+POSI 360
+CENB 348
+IR-PRE 222
+CDS 185
+Ei 168
+PH 154
+PFiV 153
+DN 149
+FE 122
+FE_de_las_JONS 116
+ESPAÑA_2000 116
+PADE 79
+PCdeC 61
+PNCA 58
+MSR 56
+L.I.(LIT-CI) 32
+____________________________
+#TERUEL
+Población de derecho:116153
+Total votantes:87885
+Votos nulos:1347
+Partidos presentados:16
+===========================
+PSOE 35765
+PP 35637
+PAR 6957
+CHA 4448
+IU 2474
+PCPE 106
+CENB 95
+CDS 80
+FE_de_las_JONS 53
+IR 51
+PFyV 44
+PH 38
+DN 29
+FE 28
+PADE 18
+MSR 17
+____________________________
+#TOLEDO
+Población de derecho:450292
+Total votantes:362574
+Votos nulos:3134
+Partidos presentados:18
+===========================
+PP 170738
+PSOE 167094
+IU 12608
+PFyV 716
+CDS 553
+CENB 528
+PH 318
+TC-PNC 277
+PMAR 273
+PCPE 204
+FE_de_las_JONS 190
+FE 164
+IR 161
+DN 156
+POSI 147
+PADE 125
+FA 114
+MSR 83
+____________________________
+#VALENCIA
+Población de derecho:1884476
+Total votantes:1456467
+Votos nulos:9129
+Partidos presentados:24
+===========================
+PP 662608
+PSOE 610543
+IU 77939
+BLOC-EV 26978
+LV-E 10969
+P.CANNABIS 9563
+ERC 8216
+CENB 3623
+CDS 2517
+IRV 2081
+PFyV 1937
+ESPAÑA_2000 1640
+PCPE 1070
+PSICV 1062
+PH 882
+DN 787
+POSI 689
+PRF 578
+FE_de_las_JONS 553
+FE 535
+FA 362
+PADE 308
+MSR 254
+FDE 236
+____________________________
+#VALLADOLID
+Población de derecho:431763
+Total votantes:348420
+Votos nulos:2026
+Partidos presentados:19
+===========================
+PP 162041
+PSOE 154613
+IU 12927
+CI 2392
+P.CANNABIS 1836
+TC-PNC 1352
+CDS 991
+CENB 558
+PH 473
+PFyV 351
+PCPE 232
+FE_de_las_JONS 211
+IR 153
+PADE 145
+FE 127
+DN 121
+ESPAÑA_2000 116
+FA 107
+MSR 75
+____________________________
+#VIZCAYA
+Población de derecho:974724
+Total votantes:732768
+Votos nulos:45960
+Partidos presentados:16
+===========================
+EAJ-PNV 256087
+PSOE 183797
+PP 128046
+IU 59126
+EA 29988
+ARALAR-ZUTIK 12706
+PKD 2395
+PH 1804
+POSI 1670
+CDS 756
+EKA 428
+IR 386
+DN 338
+MSR 265
+FE 171
+FE_de_las_JONS 130
+____________________________
+#ZAMORA
+Población de derecho:182377
+Total votantes:132489
+Votos nulos:1138
+Partidos presentados:17
+===========================
+PP 70216
+PSOE 52465
+IU 3279
+UPL 745
+ZU 629
+PREPAL 521
+CENB 185
+CDS 182
+UCL 128
+PFyV 102
+TC-PNC 85
+FE_de_las_JONS 59
+FA 56
+DN 50
+FE 50
+PCPE 48
+MSR 34
+____________________________
+#ZARAGOZA
+Población de derecho:726803
+Total votantes:557903
+Votos nulos:3107
+Partidos presentados:17
+===========================
+PSOE 223455
+PP 197089
+CHA 80845
+PAR 22579
+IU 15454
+CENB 783
+FyV 568
+CDS 563
+DN 320
+IR 246
+PH 245
+PCPE 232
+FE_de_las_JONS 207
+FE 194
+FA 136
+PCA 96
+MSR 95
+____________________________
+#CEUTA
+Población de derecho:56748
+Total votantes:35601
+Votos nulos:308
+Partidos presentados:8
+===========================
+PP 20978
+PSOE 12593
+PSPC 769
+IU 212
+FE 114
+DN 59
+IR 31
+PADE 24
+____________________________
+#MELILLA
+Población de derecho:49123
+Total votantes:27090
+Votos nulos:223
+Partidos presentados:10
+===========================
+PP 14696
+PSOE 11125
+IU 214
+LV-GV 132
+CDS 87
+IR 55
+FE 45
+PADE 32
+DN 29
+ESPAÑA_2000 19
